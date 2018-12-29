@@ -1,0 +1,10 @@
+PLANTILLA DE LA APLICACION WEB
+http://pixelcave.com/demo/proui/index2.php
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+------------------------------VALIDACIONES-----------------------------------------------------
+Creación de usuarios nuevos:
+-validar que no exista un nombre de usuario igual
+-encriptar la contraseña antes de guardarla
+-validar el ingreso de las dos contraseñas sean iguales
+-validar la longitud del nombre de usuario y la contraseña a 40 caracteres
